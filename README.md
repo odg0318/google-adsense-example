@@ -25,7 +25,7 @@ GOOGLE_REDIRECT_URI | Redirect URI is used to receive an authorization code from
 
 Other Examples
 ======================
-You can check [here](https://godoc.org/google.golang.org/api/adsense/v1.4) available API list.
+You can check available API list [here](https://godoc.org/google.golang.org/api/adsense/v1.4).
 
 ### Accounts:list
 ```golang
