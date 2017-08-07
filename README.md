@@ -21,7 +21,7 @@ Environment | Description
 ----------- | -----------
 GOOGLE_CLIENT_ID | Google OAuth2 Client ID
 GOOGLE_CLIENT_SECRET | Google OAuth2 Client Secret
-GOOGLE_REDIRECT_URI | Redirect URI is used to receive an authorization code from Google.
+GOOGLE_REDIRECT_URI | Redirect URI that is used to receive an authorization code from Google.
 
 Other Examples
 ======================
