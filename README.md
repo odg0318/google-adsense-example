@@ -48,6 +48,13 @@ call.Metric("EARNINGS")
 resp, err := call.Do()
 ```
 
+With Refresh Token
+==================
+Refresh Token is described in [documentation](https://developers.google.com/identity/protocols/OAuth2WebServer#offline).
+```golang
+url := oauth2Conf.AuthCodeURL("state", oauth2.AccessTypeOffline, oauth2.ApprovalForce)
+```
+
 References
 ==========
 * [https://github.com/gin-gonic/gin](https://github.com/gin-gonic/gin)
