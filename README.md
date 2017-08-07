@@ -23,7 +23,7 @@ GOOGLE_CLIENT_ID | Google OAuth2 Client ID
 GOOGLE_CLIENT_SECRET | Google OAuth2 Client Secret
 GOOGLE_REDIRECT_URI | Redirect URI is used to receive an authorization code from Google.
 
-Another Examples
+Other Examples
 ======================
 You can check [here](https://godoc.org/google.golang.org/api/adsense/v1.4) available API list.
 
