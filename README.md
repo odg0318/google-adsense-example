@@ -8,7 +8,7 @@ Installation
 Get Started
 ===========
 1. Make sure `Google Adsense API` is activated on Google API Console.
-2. Create `OAuth2 Client ID` on Google API Console and set `redirect_uri` to `http://127.0..1:8080/auth`
+2. Create `OAuth2 Client ID` on Google API Console and set `redirect_uri` to `http://127.0.0.1:8080/auth`
 3. `cd $GOPATH/github.com/odg0318/google-adsense-example`
 4. Set following environments; `GOOGLE_CLIENT_ID`, `GOOGLE_CLIENT_SECRET`, `GOOGLE_REDIRECT_URI`
 5. Execute `go build && ./google-adsense-example` and a web server will run.
